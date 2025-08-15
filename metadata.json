@@ -1,0 +1,5 @@
+{
+  "name": "AI Medical Form Filler",
+  "description": "An application that uses AI to extract information from a doctor's transcript and automatically fill a patient intake form. The filled form can then be downloaded as a PDF.",
+  "requestFramePermissions": []
+}
